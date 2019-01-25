@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: fc6a1019d99e77f4990116a205c7011b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: korpus
+    100004: //RootNode
+    100006: noga_3c
+    100008: noga_3d
+    100010: noga_3d_end
+    100012: noga_L_1a
+    100014: noga_L_1b
+    100016: noga_L_1c
+    100018: noga_L_1d
+    100020: noga_L_1d_end
+    100022: noga_L_2a
+    100024: noga_L_2b
+    100026: noga_L_2c
+    100028: noga_L_2d
+    100030: noga_L_2d_end
+    100032: noga_L_3a
+    100034: noga_L_3b
+    100036: noga_L_4a
+    100038: noga_L_4b
+    100040: noga_L_4c
+    100042: noga_L_4d
+    100044: noga_L_4d_end
+    100046: noga_P_1a
+    100048: noga_P_1b
+    100050: noga_P_1c
+    100052: noga_P_1d
+    100054: noga_P_1d_end
+    100056: noga_P_2a
+    100058: noga_P_2b
+    100060: noga_P_2c
+    100062: noga_P_2d
+    100064: noga_P_2d_end
+    100066: noga_P_3a
+    100068: noga_P_3b
+    100070: noga_P_3c
+    100072: noga_P_3d
+    100074: noga_P_3d_end
+    100076: noga_P_4a
+    100078: noga_P_4b
+    100080: noga_P_4c
+    100082: noga_P_4d
+    100084: noga_P_4d_end
+    100086: oko_La
+    100088: oko_Lb
+    100090: oko_Lb_end
+    100092: oko_Pa
+    100094: oko_Pl
+    100096: oko_Pl_end
+    100098: reka_La
+    100100: reka_Lb
+    100102: reka_Lc
+    100104: reka_Pa
+    100106: reka_Pb
+    100108: reka_Pc
+    100110: root
+    100112: szczypce_La
+    100114: szczypce_Lb
+    100116: szczypce_Lb_end
+    100118: szczypce_Pa
+    100120: szczypce_Pb
+    100122: szczypce_Pb_end
+    400000: Armature
+    400002: korpus
+    400004: //RootNode
+    400006: noga_3c
+    400008: noga_3d
+    400010: noga_3d_end
+    400012: noga_L_1a
+    400014: noga_L_1b
+    400016: noga_L_1c
+    400018: noga_L_1d
+    400020: noga_L_1d_end
+    400022: noga_L_2a
+    400024: noga_L_2b
+    400026: noga_L_2c
+    400028: noga_L_2d
+    400030: noga_L_2d_end
+    400032: noga_L_3a
+    400034: noga_L_3b
+    400036: noga_L_4a
+    400038: noga_L_4b
+    400040: noga_L_4c
+    400042: noga_L_4d
+    400044: noga_L_4d_end
+    400046: noga_P_1a
+    400048: noga_P_1b
+    400050: noga_P_1c
+    400052: noga_P_1d
+    400054: noga_P_1d_end
+    400056: noga_P_2a
+    400058: noga_P_2b
+    400060: noga_P_2c
+    400062: noga_P_2d
+    400064: noga_P_2d_end
+    400066: noga_P_3a
+    400068: noga_P_3b
+    400070: noga_P_3c
+    400072: noga_P_3d
+    400074: noga_P_3d_end
+    400076: noga_P_4a
+    400078: noga_P_4b
+    400080: noga_P_4c
+    400082: noga_P_4d
+    400084: noga_P_4d_end
+    400086: oko_La
+    400088: oko_Lb
+    400090: oko_Lb_end
+    400092: oko_Pa
+    400094: oko_Pl
+    400096: oko_Pl_end
+    400098: reka_La
+    400100: reka_Lb
+    400102: reka_Lc
+    400104: reka_Pa
+    400106: reka_Pb
+    400108: reka_Pc
+    400110: root
+    400112: szczypce_La
+    400114: szczypce_Lb
+    400116: szczypce_Lb_end
+    400118: szczypce_Pa
+    400120: szczypce_Pb
+    400122: szczypce_Pb_end
+    2100000: korpus
+    2100002: oczy
+    2100004: reka1
+    2100006: noga3
+    2100008: szczypce
+    2100010: noga2
+    2100012: noga1
+    4300000: korpus
+    9500000: //RootNode
+    13700000: korpus
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: korpus
+    second: {fileID: 2100000, guid: 205fc9eb47790ea4b95d5a85d0871fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: noga1
+    second: {fileID: 2100000, guid: cf18ce491d1256b47aafff3ba19d79ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: noga2
+    second: {fileID: 2100000, guid: 17470eeca314ca248bdf9ab15e25c4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: noga3
+    second: {fileID: 2100000, guid: c878cb6451e8ffc47a5bc098e6bf0f5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oczy
+    second: {fileID: 2100000, guid: 01e0755a981ffed488197bc13e9dc5f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reka1
+    second: {fileID: 2100000, guid: a8ccb5d5bb57dcb4591f90f9eaddb44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: szczypce
+    second: {fileID: 2100000, guid: 2157e25032bf95b4faeae14cffdf2088, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
